@@ -45,9 +45,9 @@ venv.bak/
 # Data and Results
 *.csv
 *.json
-*.jsonl
-data/
-results/
+# *.jsonl
+# data/
+# results/
 !results/.gitkeep
 
 # Logs and temporary files
